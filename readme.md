@@ -1,12 +1,31 @@
-<h1 align="center">Hi 👋, I'm Yousef Alzahrani</h1>
-<h3 align="center">Software Engineer</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Yousef Alzahrani, software engineer from Makkah. B.Sc. Software Engineering, GPA 3.82, 577 hour co-op, live graduation project." src="assets/header-light.svg" width="100%">
+</picture>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mru52&label=Profile%20views&color=0e75b6&style=flat" alt="mru52" /> </p>
+Interviewers usually ask the same questions, so I've answered them here. The longer versions are on my [portfolio](https://mru52.github.io/).
 
-- 📫 How to reach me **mmalzahrani52@gmail.com**
+### What have you built?
 
+**[AutoAcad](https://autoacad.com)** is my graduation project and it is live. It turns hours of university accreditation paperwork into minutes: it reads instructors' Word, Excel and PDF files and produces the official course report.
+`TypeScript` `React` `Node.js` `Express` `PostgreSQL`
 
+**[TraceCraft](https://github.com/MrU52/tracecraft)** is a reliability library written from scratch in TypeScript: rate limiter, circuit breaker and retries with backoff, plus a workbench for breaking a simulated service. Tested in CI on Node 20 and 22.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+**[CourseSpec Toolkit](https://github.com/MrU52/CourseSpec-DOCX-PDF-Toolkit)** is a Node.js service that generates Word documents from JSON templates and converts them to PDF.
 
+### Where have you worked?
+
+Software Engineering Co-op Trainee at First City for Information Technology, Research and Development, Makkah (Aug to Nov 2025, 577 hours). I built a real-time dashboard that streams live camera feeds to the browser, and a background snapshot service, inside a production system.
+
+### What are your grades?
+
+B.Sc. Software Engineering, Umm Al-Qura University, 2022 to 2026. GPA 3.82 / 4.00, First-Class Honors.
+
+### How do you approach a problem?
+
+Understand it first, keep the solution simple, and prove it works with tests. In AutoAcad and TraceCraft, tests run automatically on every change, so problems show up before users see them.
+
+### How can I reach you?
+
+[yousef.moh.alzahrani@gmail.com](mailto:yousef.moh.alzahrani@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yousef-alzahrani52/) · [Portfolio](https://mru52.github.io/)
