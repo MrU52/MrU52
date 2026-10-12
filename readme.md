@@ -7,7 +7,7 @@ Interviewers usually ask the same questions, so I've answered them here. The lon
 
 ### What have you built?
 
-**[AutoAcad](https://autoacad.com)** is my graduation project and it is live. It turns hours of university accreditation paperwork into minutes: it reads instructors' Word, Excel and PDF files and produces the official course report.
+**[AutoAcad](https://autoacad.com)** is my graduation project, built with my teammate Abdullah Alturky, and it is live. It turns hours of university accreditation paperwork into minutes: it reads instructors' Word, Excel and PDF files and produces the official course report.
 `TypeScript` `React` `Node.js` `Express` `PostgreSQL`
 
 **[TraceCraft](https://github.com/MrU52/tracecraft)** is a reliability library written from scratch in TypeScript: rate limiter, circuit breaker and retries with backoff, plus a workbench for breaking a simulated service. Tested in CI on Node 20 and 22.
